@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Responsive Design</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Delicious Food Menu</h1>
+    </header>
+    <main>
+        <section class="chicken">
+            <div class="section-title">Chicken</div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Chicken dishes are delightful!</p>
+        </section>
+        <section class="beef">
+            <div class="section-title">Beef</div>
+            <p>Proin ac libero id libero interdum vehicula. Beef dishes are hearty and satisfying!</p>
+        </section>
+        <section class="sushi">
+            <div class="section-title">Sushi</div>
+            <p>Nulla facilisi. Sushi is an art form and a delightful experience!</p>
+        </section>
+    </main>
+</body>
+</html>
